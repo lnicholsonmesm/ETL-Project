@@ -13,5 +13,9 @@ We started this project by cleaning up the Rotten Tomatoes. One of the data entr
 
 
 LOAD: 
-We used SQLAlchemy to load DataFrame into Postgres. The structure chosen was to have one schema with two tables, one for the movies and one for the actors. 
-We used Postgres because it's open source and free. We also used it because it doesn't require to load csv files and we have experience in it. The structure was chosen to avoid data duplicates in the actor tables without taking data from the movie tables. 
+We created two methods of loading data into SQL:  
+- CSV File Method: Uses the csv files that we already saved. This was added in case it takes too lond to run the other method since the IMDbpy is slow.
+- Pandas DF Method: SQLAlchemy to load DataFrame into Postgres. We also used it because it doesn't require to load csv files and we have experience in it. 
+
+The structure chosen was to have one schema with two tables, one for the movies and one for the actors. 
+We used Postgres because it's open source and free. The structure was chosen to avoid data duplicates in the actor tables without taking data from the movie tables. 
