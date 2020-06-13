@@ -5,6 +5,7 @@ __pycache__/
 *-checkpoint.ipynb
 config.py
 *.pyc
+.DS_Store
 
 # C extensions
 *.so
