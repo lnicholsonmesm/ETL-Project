@@ -1,5 +1,5 @@
 #import 
-
+from config.py import username, password
 dbstring = "postgres://username:password@postgres"
 engine = create.engine()
 
