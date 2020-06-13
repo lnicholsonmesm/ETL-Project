@@ -1,0 +1,251 @@
+name,movie id,movie rating
+The Shawshank Redemption,0111161,9.2
+The Godfather,0068646,9.1
+The Godfather: Part II,0071562,9.0
+The Dark Knight,0468569,9.0
+12 Angry Men,0050083,8.9
+Schindler's List,0108052,8.9
+The Lord of the Rings: The Return of the King,0167260,8.9
+Pulp Fiction,0110912,8.8
+"The Good, the Bad and the Ugly",0060196,8.8
+The Lord of the Rings: The Fellowship of the Ring,0120737,8.8
+Fight Club,0137523,8.8
+Forrest Gump,0109830,8.8
+Inception,1375666,8.7
+Star Wars: Episode V - The Empire Strikes Back,0080684,8.7
+The Lord of the Rings: The Two Towers,0167261,8.7
+The Matrix,0133093,8.6
+Goodfellas,0099685,8.6
+One Flew Over the Cuckoo's Nest,0073486,8.6
+Seven Samurai,0047478,8.6
+Se7en,0114369,8.6
+Life Is Beautiful,0118799,8.6
+City of God,0317248,8.6
+The Silence of the Lambs,0102926,8.6
+It's a Wonderful Life,0038650,8.6
+Star Wars: Episode IV - A New Hope,0076759,8.6
+Saving Private Ryan,0120815,8.5
+Spirited Away,0245429,8.5
+Parasite,6751668,8.5
+The Green Mile,0120689,8.5
+Interstellar,0816692,8.5
+Léon: The Professional,0110413,8.5
+The Usual Suspects,0114814,8.5
+Harakiri,0056058,8.5
+The Lion King,0110357,8.5
+The Pianist,0253474,8.5
+Back to the Future,0088763,8.5
+American History X,0120586,8.5
+Terminator 2: Judgment Day,0103064,8.5
+Modern Times,0027977,8.5
+Psycho,0054215,8.5
+Gladiator,0172495,8.5
+City Lights,0021749,8.5
+The Departed,0407887,8.5
+The Intouchables,1675434,8.5
+Whiplash,2582802,8.5
+The Prestige,0482571,8.5
+Once Upon a Time in the West,0064116,8.5
+Grave of the Fireflies,0095327,8.4
+Casablanca,0034583,8.4
+Rear Window,0047396,8.4
+Cinema Paradiso,0095765,8.4
+Alien,0078748,8.4
+Apocalypse Now,0078788,8.4
+Memento,0209144,8.4
+Joker,7286456,8.4
+Raiders of the Lost Ark,0082971,8.4
+The Great Dictator,0032553,8.4
+The Lives of Others,0405094,8.4
+Django Unchained,1853728,8.4
+Paths of Glory,0050825,8.4
+The Shining,0081505,8.4
+WALL·E,0910970,8.4
+Avengers: Infinity War,4154756,8.4
+Sunset Blvd.,0043014,8.4
+Princess Mononoke,0119698,8.4
+Spider-Man: Into the Spider-Verse,4633694,8.4
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,0057012,8.4
+Oldboy,0364569,8.4
+Witness for the Prosecution,0051201,8.4
+The Dark Knight Rises,1345836,8.3
+Avengers: Endgame,4154796,8.3
+Once Upon a Time in America,0087843,8.3
+Aliens,0090605,8.3
+Your Name.,5311514,8.3
+Coco,2380307,8.3
+American Beauty,0169547,8.3
+Braveheart,0112573,8.3
+Das Boot,0082096,8.3
+3 Idiots,1187043,8.3
+Toy Story,0114709,8.3
+High and Low,0057565,8.3
+Like Stars on Earth,0986264,8.3
+Amadeus,0086879,8.3
+Star Wars: Episode VI - Return of the Jedi,0086190,8.3
+Reservoir Dogs,0105236,8.3
+Inglourious Basterds,0361748,8.3
+Good Will Hunting,0119217,8.3
+1917,8579674,8.3
+2001: A Space Odyssey,0062622,8.3
+Vertigo,0052357,8.3
+Requiem for a Dream,0180093,8.3
+Capernaum,8267604,8.3
+M,0022100,8.3
+Dangal,5074352,8.3
+Anand,0066763,8.3
+Eternal Sunshine of the Spotless Mind,0338013,8.3
+Citizen Kane,0033467,8.3
+The Hunt,2106476,8.3
+Full Metal Jacket,0093058,8.3
+Bicycle Thieves,0040522,8.2
+North by Northwest,0053125,8.2
+A Clockwork Orange,0066921,8.2
+The Kid,0012349,8.2
+Snatch,0208092,8.2
+Singin' in the Rain,0045152,8.2
+Scarface,0086250,8.2
+Taxi Driver,0075314,8.2
+Amélie,0211915,8.2
+Lawrence of Arabia,0056172,8.2
+Toy Story 3,0435761,8.2
+The Sting,0070735,8.2
+Ikiru,0044741,8.2
+Metropolis,0017136,8.2
+A Separation,1832382,8.2
+For a Few Dollars More,0059578,8.2
+Double Indemnity,0036775,8.2
+The Apartment,0053604,8.2
+Incendies,1255953,8.2
+To Kill a Mockingbird,0056592,8.2
+Indiana Jones and the Last Crusade,0097576,8.2
+Up,1049413,8.2
+L.A. Confidential,0119488,8.2
+Heat,0113277,8.2
+Monty Python and the Holy Grail,0071853,8.2
+Die Hard,0095016,8.2
+Come and See,0091251,8.2
+Rashomon,0042876,8.2
+Yojimbo,0055630,8.2
+Batman Begins,0372784,8.2
+Green Book,6966692,8.2
+Downfall,0363163,8.2
+Children of Heaven,0118849,8.2
+Unforgiven,0105695,8.2
+Some Like It Hot,0053291,8.2
+Ran,0089881,8.2
+Howl's Moving Castle,0347149,8.2
+The Great Escape,0057115,8.2
+A Beautiful Mind,0268978,8.2
+All About Eve,0042192,8.2
+Casino,0112641,8.2
+Pan's Labyrinth,0457430,8.2
+The Wolf of Wall Street,0993846,8.2
+The Secret in Their Eyes,1305806,8.2
+My Neighbor Totoro,0096283,8.2
+"Lock, Stock and Two Smoking Barrels",0120735,8.1
+Raging Bull,0081398,8.1
+There Will Be Blood,0469494,8.1
+The Treasure of the Sierra Madre,0040897,8.1
+Judgment at Nuremberg,0055031,8.1
+My Father and My Son,0476735,8.1
+"Three Billboards Outside Ebbing, Missouri",5027774,8.1
+Dial M for Murder,0046912,8.1
+The Gold Rush,0015864,8.1
+Chinatown,0071315,8.1
+V for Vendetta,0434409,8.1
+No Country for Old Men,0477348,8.1
+The Seventh Seal,0050976,8.1
+Inside Out,2096673,8.1
+Shutter Island,1130884,8.1
+Warrior,1291584,8.1
+The Elephant Man,0080678,8.1
+Trainspotting,0117951,8.1
+The Sixth Sense,0167404,8.1
+The Thing,0084787,8.1
+Jurassic Park,0107290,8.1
+Gone with the Wind,0031381,8.1
+Wild Strawberries,0050986,8.1
+Room,3170832,8.1
+Blade Runner,0083658,8.1
+Finding Nemo,0266543,8.1
+The Bridge on the River Kwai,0050212,8.1
+The Truman Show,0120382,8.1
+Stalker,0079944,8.1
+Kill Bill: Vol. 1,0266697,8.1
+Fargo,0116282,8.1
+On the Waterfront,0047296,8.1
+The Third Man,0041959,8.1
+Gran Torino,1205489,8.1
+Tokyo Story,0046438,8.1
+The Deer Hunter,0077416,8.1
+Memories of Murder,0353969,8.1
+Wild Tales,3011894,8.1
+Klaus,4729430,8.1
+The Bandit,0116231,8.1
+Andhadhun,8108198,8.1
+Mary and Max,0978762,8.1
+The Big Lebowski,0118715,8.1
+In the Name of the Father,0107207,8.1
+Gone Girl,2267998,8.1
+Hacksaw Ridge,2119532,8.1
+The Grand Budapest Hotel,2278388,8.1
+Persona,0060827,8.1
+Before Sunrise,0112471,8.1
+To Be or Not to Be,0035446,8.1
+Catch Me If You Can,0264464,8.1
+Ford v Ferrari,1950186,8.1
+The General,0017925,8.1
+How to Train Your Dragon,0892769,8.1
+Mr. Smith Goes to Washington,0031679,8.1
+Sherlock Jr.,0015324,8.1
+Prisoners,1392214,8.1
+12 Years a Slave,2024544,8.1
+Mad Max: Fury Road,1392190,8.1
+Barry Lyndon,0072684,8.1
+Cool Hand Luke,0061512,8.1
+Network,0074958,8.1
+Stand by Me,0092005,8.1
+The Wages of Fear,0046268,8.1
+Million Dollar Baby,0405159,8.1
+Into the Wild,0758758,8.1
+Hachi: A Dog's Tale,1028532,8.1
+Ben-Hur,0052618,8.1
+Monty Python's Life of Brian,0079470,8.1
+Platoon,0091763,8.1
+Rush,1979320,8.1
+Dead Poets Society,0097165,8.1
+Harry Potter and the Deathly Hallows: Part 2,1201607,8.0
+Logan,3315342,8.0
+Andrei Rublev,0060107,8.0
+The Passion of Joan of Arc,0019254,8.0
+The 400 Blows,0053198,8.0
+Hotel Rwanda,0395169,8.0
+The Handmaiden,4016934,8.0
+Amores Perros,0245712,8.0
+Spotlight,1895587,8.0
+Rang De Basanti,0405508,8.0
+Nausicaä of the Valley of the Wind,0087544,8.0
+Rocky,0075148,8.0
+Rebecca,0032976,8.0
+La Haine,0113247,8.0
+"Monsters, Inc.",0198781,8.0
+Gangs of Wasseypur,1954470,8.0
+Portrait of a Lady on Fire,8613070,8.0
+It Happened One Night,0025316,8.0
+In the Mood for Love,0118694,8.0
+Before Sunset,0381681,8.0
+"Paris, Texas",0087884,8.0
+The Help,1454029,8.0
+The Invisible Guest,4857264,8.0
+The Princess Bride,0093779,8.0
+Drishyam,4430212,8.0
+The Terminator,0088247,8.0
+Hera Pheri,0242519,8.0
+Fanny and Alexander,0083922,8.0
+Throne of Blood,0050613,8.0
+Aladdin,0103639,8.0
+Tangerines,2991224,8.0
+Three Colors: Red,0111495,8.0
+PK,2338151,8.0
+A Silent Voice: The Movie,5323662,8.0
