@@ -7,7 +7,7 @@ create_db_query = 'CREATE DATABASE MovieDB'
 create_schema_query = 'CREATE SCHEMA IF NOT EXISTS ETL'
 
 # CREATE TABLE SCHEMA
-ETL_actors = '''DROP TABLE IF EXISTS actors;
+ETL_actors = '''DROP TABLE IF EXISTS actors_role;
                 CREATE TABLE actors_role(id INT PRIMARY KEY
                                    ,names VARCHAR
                                    ,last_role VARCHAR)'''
